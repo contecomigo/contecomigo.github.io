@@ -3,6 +3,9 @@ REGEDIT4
 [HKEY_CURRENT_USER\Software\iEngine]
 "MemoryManagerForce"=dword:00000000
 
-[HKEY_CURRENT_USER\SYSTEM\CurrentControlSet\Control\TimeZoneInformation]
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Time Zones]
+@="E. South America Standard Time"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation]
 "StandardName"="@tzres.dll,-42"
 "TimeZoneKeyName"="E. South America Standard Time"
