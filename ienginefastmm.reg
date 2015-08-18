@@ -7,4 +7,4 @@ REGEDIT4
 @="E. South America Standard Time"
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
-"TcpTimedWaitDelay"=30
+"TcpTimedWaitDelay"=dword:0000001E
